@@ -1,2 +1,5 @@
 # Digital-Clock-Using-Tkinter
-I have made Degital working clock using Tkinter
+
+main code is in mainfile.py 👍
+
+hope you like this simple program ☺️
